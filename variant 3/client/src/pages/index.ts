@@ -1,0 +1,6 @@
+export { HomePage } from './HomePage'
+export { SignInPage } from './SignInPage'
+export { SignUpPage } from './SignUpPage'
+export { TaskPage } from './TaskPage'
+export { OneTaskPage } from './OneTaskPage'
+export { NotFound } from './NotFoundPage'

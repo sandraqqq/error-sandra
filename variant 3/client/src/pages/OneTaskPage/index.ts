@@ -1,0 +1,1 @@
+export { OneTaskPage } from "./ui/OneTaskPage";
